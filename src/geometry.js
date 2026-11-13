@@ -12,14 +12,14 @@ export const DUCTS = [
 
 export const DEFAULTS = {
   mode: 'volume',        // 'volume' | 'height'
-  volumeMl: 1000,        // Zielvolumen bis Halsoberkante
-  heightMm: 120,         // Körperhöhe (Boden bis Halsoberkante) im Modus 'height'
-  diameterMm: 110,       // Außendurchmesser Körper (= Überwurfring)
+  volumeMl: 100,         // Zielvolumen bis Halsoberkante
+  heightMm: 80,          // Körperhöhe (Boden bis Halsoberkante) im Modus 'height'
+  diameterMm: 60,        // Außendurchmesser Körper (= Überwurfring)
   wall: 2.4,             // Wandstärke Körper
   ductOd: 12, ductId: 8, // Mikrorohr
   tubeFree: 22,          // freie Rohrlänge über dem Deckel (Einstecktiefe Verbinder)
   tubeOdAdjust: 0,       // Korrektur Rohr-Außendurchmesser (Druckertoleranz)
-  splash: true,          // Spritzschutz-Dach mit Labyrinth
+  splash: false,         // Spritzschutz-Dach mit Labyrinth (ab ca. Ø75 mm sinnvoll)
   snap: true,            // Deckelscheibe rastet im Überwurfring ein
   reinforce: false,      // Verstärkung: Rippen am Rohrfuß, dickere Scheibe, Boden und Dach
   gasket: true,          // TPU-Dichtung erzeugen

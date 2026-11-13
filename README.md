@@ -10,6 +10,7 @@ Im Konfigurator stellst du Größe, Rohrmaß und Funktionen ein und lädst die f
 
 ## Funktionen
 
+- **Voreinstellung:** der kleine Kanister mit 100 ml, Ø 60 mm und Rohr 12/8.
 - **Größe:** Durchmesser frei wählbar, dazu entweder das **Volumen** (die Höhe wird ausgerechnet) oder die **Höhe** (das Volumen wird angezeigt).
 - **Mikrorohr-Größen:** alle gängigen Maße von 5/3,5 bis 20/16 mm, zusätzlich eigene Maße möglich. Das Rohr am Deckel hat dieselben Maße wie das Mikrorohr, verbunden wird mit einem normalen Steckverbinder in Rohrgröße.
 - **Spritzschutz** (optional): ein Dach mit Labyrinth. Das Wasser läuft zurück in den Kanister, die Luft geht seitlich raus.
